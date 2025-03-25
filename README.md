@@ -8,26 +8,46 @@ The repository includes the following files:
 - **HR_Dashboard.jpg** - A screenshot of the HR dashboard.
 - **README.md** - This file describing the project.
 
-## 🚀 Features of the HR Dashboard
-- **Employee Composition:** Breakdown of employees by job title.
-- **Gender Distribution:** Male vs. female workforce ratio.
-- **Age Distribution:** Majority of employees fall between 30-40 years old.
-- **Salary Analysis:** Highest-paid employees and salary distribution by education.
-- **Growth Trend:** Employee hiring trends over time.
-- **Leave Balances:** Sales & marketing roles have higher leave balances.
 
-## 📊 How to Use the Dashboard
-1. Download **HR_Dashboard.twbx** (Tableau workbook).
-2. Open it using [Tableau Public](https://public.tableau.com/) (free version) or Tableau Desktop.
-3. Interact with the filters and graphs to explore HR insights.
+## 📊 **Dashboard Visualizations & Insights**
+The HR Dashboard includes multiple **data visualizations**, each designed to highlight key HR metrics:
 
-## 🛠 How to Upload New Data
-If you want to update the dashboard with new employee data:
-1. Replace `HR_Dashboard.xlsx` with the latest dataset.
-2. Open the Tableau workbook and refresh the data source.
-3. Save and publish the updated dashboard.
+### 🔹 **1. Employee Composition by Job Title**
+- Displays the number of employees in each job role.
+- Top roles include **Packaging Associate, Production Operator, and Sales Representative**.
 
-## 📥 Cloning the Repository
-To download the repository locally, use:
-```bash
-git clone https://github.com/your-username/HR_Dashboard_Visualization.git
+### 🔹 **2. Gender Split of Employees**
+- A **pie chart** showing the workforce gender distribution.
+- The workforce consists of **73 males and 88 females**.
+
+### 🔹 **3. Age Distribution of Employees**
+- A **histogram** visualizing the age demographics.
+- The majority (51.76%) of employees are between **30-40 years old**.
+
+### 🔹 **4. Salary Distribution by Employee**
+- A **horizontal bar chart** listing the top-paid employees.
+- The highest-paid employees are **Aarav Verma, Ambros Murthwaite, and Shayne Stegel**.
+
+### 🔹 **5. Salary Comparison by Education Level**
+- A **box plot** displaying salaries based on educational qualifications.
+- Employees with a **Master’s Degree earn the highest salaries**, followed by those with **Bachelor’s Degrees**.
+
+### 🔹 **6. Employee Growth Over Time**
+- A **line chart** showing cumulative employee growth from **2017 to 2023**.
+- Indicates an increasing hiring trend over time.
+
+### 🔹 **7. Leave Balance Analysis by Job Title**
+- A **table visualization** of average leave balances for different roles.
+- **Marketing and Sales employees have the highest leave balances.**
+
+## Dashboard 
+
+![Tableau_visualization2](https://github.com/user-attachments/assets/6be161e6-cea7-415d-b88f-999d48917c30)
+
+
+---
+
+## 🚀 How to Use the Dashboard
+1. **Download the Tableau file** (`HR_Dashboard.twbx`).
+2. Open it using **[Tableau Public](https://public.tableau.com/) (Free Version)** or **Tableau Desktop**.
+3. **Interact with the filters** to explore HR trends and workforce insights.
